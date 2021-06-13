@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "title": "MY AWESOME TITLE 1",
+            "content": "My awesome article 1 !!!",
+            "image": "article_1.jpg",
+            "category": "category_1"
+        },
+        {
+            "id": "2",
+            "title": "MY AWESOME TITLE 2",
+            "content": "My awesome article 2 !!!",
+            "image": "article_2.jpg",
+            "category": "category_1"
+        },
+        {
+            "id": "3",
+            "title": "MY AWESOME TITLE 3",
+            "content": "My awesome article 3 !!!",
+            "image": "article_3.jpg",
+            "category": "category_3"
+        },
+        {
+            "id": "4",
+            "title": "MY AWESOME TITLE 4",
+            "content": "My awesome article 4 !!!",
+            "image": "article_4.jpg",
+            "category": "category_2"
+        },
+        {
+            "id": "5",
+            "title": "MY AWESOME TITLE 5",
+            "content": "My awesome article 5 !!!",
+            "image": "article_5.jpg",
+            "category": "category_3"
+        },
+        {
+            "id": "6",
+            "title": "MY AWESOME TITLE 6",
+            "content": "My awesome article 6 !!!",
+            "image": "article_6.jpg",
+            "category": "category_1"
+        },
+        {
+            "id": "7",
+            "title": "MY AWESOME TITLE 7",
+            "content": "My awesome article 7 !!!",
+            "image": "article_7.jpg",
+            "category": "category_2"
+        },
+        {
+            "id": "8",
+            "title": "MY AWESOME TITLE 8",
+            "content": "My awesome article 8 !!!",
+            "image": "article_8.jpg",
+            "category": "category_4"
+        },
+        {
+            "id": "9",
+            "title": "MY AWESOME TITLE 9",
+            "content": "My awesome article 9 !!!",
+            "image": "article_9.jpg",
+            "category": "category_1"
+        },
+        {
+            "id": "10",
+            "title": "MY AWESOME TITLE 10",
+            "content": "My awesome article 10 !!!",
+            "image": "article_10.jpg",
+            "category": "category_4"
+        }
+    ]
+}

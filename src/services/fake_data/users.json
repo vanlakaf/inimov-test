@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "username": "user_1",
+            "token": "token_1",
+            "name": "first_name_1 last_name_1"
+        },
+        {
+            "id": "2",
+            "username": "user_2",
+            "token": "token_2",
+            "name": "first_name_2 last_name_2"
+        },
+        {
+            "id": "3",
+            "username": "user_3",
+            "token": "token_3",
+            "name": "first_name_3 last_name_3"
+        },
+        {
+            "id": "4",
+            "username": "user_4",
+            "token": "token_4",
+            "name": "first_name_4 last_name_4"
+        }
+    ]
+}
